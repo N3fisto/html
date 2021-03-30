@@ -1,0 +1,53 @@
+div {
+    width: 850px;
+    column-count: 2;
+  }
+hr {
+    height: 8px;
+    border: 0;
+    box-shadow: inset 0 8px 8px -8px rgb(2, 2, 2);
+}
+.yellow {
+    color: rgb(161, 161, 56);
+}
+.green {
+    color: green;
+}
+
+.blue{
+    color: blue;
+}
+.red {
+    color: red;
+}
+.purple {
+
+color: purple;
+}
+body {
+    background-color: rgb(255, 255, 255);
+}
+#absatz {
+    color: yellow;
+    background-color: rgb(161, 150, 150);
+}
+#absatz {
+    color:blue;
+}
+#ipsum {
+    font-size: 2em;
+}
+img {
+    width:24vw;
+    float:right;
+}
+#bild2 {
+    height: auto;
+    width: 60vw;
+}
+.green {
+    color: rgb(18, 92, 18)
+}
+.big {
+    font-size: 2em;
+}
