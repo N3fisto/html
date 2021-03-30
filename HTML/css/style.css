@@ -1,0 +1,33 @@
+h1 {
+    color: rebeccapurple;
+
+}
+h2 {
+    color: green;
+}
+body {
+    background-color: rgb(216, 208, 208);
+}
+#absatz {
+    color: yellow;
+    background-color: rgb(161, 150, 150);
+}
+#absatz {
+    color:blue;
+}
+#ipsum {
+    font-size: 2em;
+}
+img {
+    width:37vw;
+}
+#bild2 {
+    height: auto;
+    width: 60vw;
+}
+.green {
+    color: rgb(18, 92, 18)
+}
+.big {
+    font-size: 2em;
+}
